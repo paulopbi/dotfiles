@@ -33,3 +33,7 @@ git clone https://github.com/paulopbi/dotfiles.git ~/dotfiles
 # entre na pasta para ver os arquivos
 cd ~/dotfiles
 ```
+
+## 📄 Licença
+
+Você pode copiar esse repositório e modificar como quiser, veja mais sobre a licença [clicando aqui](./LICENSE).
