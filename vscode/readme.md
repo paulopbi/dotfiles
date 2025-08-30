@@ -1,16 +1,18 @@
-Além do arquivo de configurações do VSCode ([`settings.json`](./vscode.json)), também utilizo diversas extensões para melhorar minha produtividade e experiência de desenvolvimento. Abaixo estão algumas das extensões que considero essenciais:
+### 🧑‍💻 VSCode Extensions
 
-- **Live Server** - Permite rodar um servidor local com live reload para páginas estáticas e dinâmicas.
-- **Prettier - Code formatter** - Formatador de código que suporta várias linguagens.
-- **ES7+ React/Redux/React-Native snippets** - Snippets para React, Redux e React Native.
-- **Tailwind CSS IntelliSense** - Autocompletar e sugestões para Tailwind CSS.
-- **GitLens** - Ferramenta avançada para trabalhar com Git dentro do VSCode.
-- **Prisma** - Suporte para o ORM Prisma, incluindo autocompletar e validação de esquema.
-- **APC Customize UI++** - Permite modificar a interface do VSCode.
-- **Beard Theme** - Um compilado de diversos tema escuro para o VSCode.
-- **Biome** - Ferramenta de formatação e linting para JavaScript, TypeScript e outras linguagens.
-- **Choose a License** - Ajuda a escolher uma licença para o seu projeto.
-- **Error Lens** - Realça erros e avisos diretamente no código.
-- **Import Cost** - Mostra o tamanho dos pacotes importados no código.
-- **ESLint** - Integração do ESLint para análise estática de código.
-- **Template String Converter** - Converte strings normais em template strings e vice-versa.
+- **Live Server** - Allows you to launch a local development server with live reload feature for static & dynamic pages.
+- **Prettier - Code formatter** - Code formatter for consistent style.
+- **ES7+ React/Redux/React-Native snippets** - Snippets for React, Redux and React Native.
+- **Tailwind CSS IntelliSense** - IntelliSense for Tailwind CSS.
+- **GitLens** - Supercharge the built-in Git capabilities.
+- **Prisma** - Support for Prisma schema files.
+- **Biome** - An all-in-one code formatter, linter, and language server.
+- **APC Customize UI++** - Customizes the VSCode UI.
+- **Beard Theme** - Several simple and clean theme for VSCode.
+- **Choose a License** - Easily add a license to your project.
+- **Error Lens** - Enhances the visibility of errors and warnings.
+- **Import Cost** - Displays the size of the imported package inline in the editor.
+- **ESLint** - Integrates ESLint into VSCode.
+- **Template String Converter** - Convert strings to template strings and vice versa.
+
+See my vscode settings [here](./vscode.json).
