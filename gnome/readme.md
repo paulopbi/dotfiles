@@ -12,6 +12,7 @@
 - Burn my windows
 - Clipboard indicator
 - Compiz alike magic lamp
+- Compiz windows effect
 - Coverflow alt-tab
 - Customize clock on lock screen
 - Dash to dock
