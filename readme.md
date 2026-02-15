@@ -1,71 +1,34 @@
-![my desktop screenshot](assets/desktop_screenshot.png)
+# Dotfiles
 
-### 📂 Dotfiles
+My linux dotfiles repository for personalizing and organizing my development environment, it includes **vscode**, **antigravity**, **terminal**, **themes** and more styles and settings, I'm always updating this repository, so the files may change a lot in the future.
 
-My dotfiles repository for personalizing and organizing my development environment, I'm always updating this repository, so the files may change a lot in the future.
+## Preview
 
-### 🖥️ My Computer Specs
+<p align="center">
+  <img alt="my desktop screenshot" src="./public/desktop.png" />
+</p>
 
-- **Intel Xeon E5-2670 v3** - CPU
-- **16 GB** - RAM
-- **512 SSD SATA** - Storage
-- **AMD Radeon RX 5500 XT** - GPU
+> My personal desktop customization.
 
-### 🧑‍💻 My Dev Setup
+## Hardware Specs
 
-- **Editor:** [Visual Studio Code](https://code.visualstudio.com/) and [Lazyvim](https://www.lazyvim.org/) </br>
-- **Operating System:** [Fedora 42 Workstation](https://www.fedoraproject.org/) (gnome) </br>
-- **Terminal:** Bash and [Warp](https://www.warp.dev/) </br>
-- **Shell:** [Zsh](https://www.zsh.org/) with [Oh My Zsh](https://ohmyz.sh/) </br>
-- **Browser:** [Zen Browser](https://zenbrowser.com/) and [Chromium](https://www.google.com/chrome/canary/)</br>
-- **Interface Text Font:** [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)</br>
-- **Monospaced Text Font:** [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
+- **CPU:** Intel Xeon E5-2670 v3.
+- **GPU:** AMD Radeon RX 5500 XT.
+- **RAM:** 16 GB.
+- **SSD:** 512 SATA.
 
-### 👀 Preview
+## Development Environment
 
-<details>
-<summary>Shell With Oh-My-Zsh Screenshot</summary>
-<div align="center">
-  <img alt="shell with zsh" src="assets/shell_screenshot.png" />
-</div>
-</details>
+- **Operating System:** [Fedora Workstation](https://www.fedoraproject.org/) with _Gnome_.
+- **Editor:** [Visual Studio Code](https://code.visualstudio.com/) and [Antigravity](https://www.antigravity.google/).
+- **Terminal:** [Zsh](https://www.zsh.org/) with [Oh My Zsh](https://ohmyz.sh/).
+- **Browser:** [Brave](https://brave.com/pt-br/) and [Firefox](https://www.firefox.com/pt-BR/).
 
-<details>
-<summary>Vscode Screenshot</summary>
-<div align="center">
-  <img alt="opened vscode with my settings" src="./assets/vscode_screenshot.png" />
-</div>
-</details>
+## Fonts
 
-<details>
-<summary>Lazyvim Screenshot</summary>
-<div align="center">
-  <img alt="lazyvim image" src="assets/lazyvim_screenshot.png" />
-</div>
-</details>
+- **Interface Text Font:** [Inter](https://fonts.google.com/specimen/Inter)
+- **Monospaced Text Font:** [0xProto](https://github.com/0xType/0xProto)
 
-<details>
-<summary>Wallpaper</summary>
-<div align="center">
-  <img alt="angel girl wallpaper image" src="assets/angel-warrior-anime-girl-sword.jpg" />
-</div>
-</details>
+## License
 
-### 🤔 How to use
-
-You can clone this repository to your local machine and customize it as you wish. Below are the steps to clone the repository:
-
-```bash
-# clone the repository
-git clone https://github.com/paulopbi/dotfiles.git
-# navigate to the dotfiles directory
-cd ~/dotfiles
-# see all the files
-ls -a
-```
-
-after it you can copy the files to your home directory or create symbolic links to keep the files updated.
-
-## 📄 License
-
-You can see more about the license [right here](./LICENSE).
+This is an open-source project licensed under the [MIT License](./LICENSE), which allows you to freely use, modify, and distribute the code.

@@ -15,4 +15,4 @@
 - **ESLint** - Integrates ESLint into VSCode.
 - **Template String Converter** - Convert strings to template strings and vice versa.
 
-See my vscode settings [here](./vscode.json).
+See my vscode settings [here](./settings.json).
